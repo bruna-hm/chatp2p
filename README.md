@@ -1,4 +1,4 @@
-Chat em p2p o mais simples possível. 
+Chat p2p em python, super simples. 
 Feito para estudo de comunicação assíncrona, corrotinas e uso da biblioteca asyncio.
 
 Funcionalidades:
